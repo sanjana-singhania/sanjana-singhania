@@ -1,7 +1,7 @@
 ## Hi, I'm Sanjana! 👋
   📚 Third year honors computer science major @ __Northeastern University__<br>
-  🚀 Full-stack developer @ Georgia Tech Research Institute<br>
-  🌿 Developer @ [Sandbox](https://www.github.com/sandboxnu)<br>
+  🚀 Previously a full-stack developer @ Georgia Tech Research Institute<br>
+  🌿 Project Lead @ [Sandbox](https://www.github.com/sandboxnu)<br>
 
 <!--
 **sanjana-singhania/sanjana-singhania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
